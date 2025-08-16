@@ -73,6 +73,6 @@ resume-analyzer/
 
 ---
 
-**Author:** You 🙂
+**Author:** Yours truly @ekanikaa
 ```
 ```
